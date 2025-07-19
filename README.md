@@ -2,7 +2,9 @@
 
 [[Python]] [[AI]] [[Automation]] [[Project-Ideas]]
 
-**OMNI.1** is a Python-based project designed as a foundation for advanced automation, AI experimentation, and universal tool-building. The vision is to create a modular, extensible system that can evolve into a personal digital assistant, automation hub, or experimental AI Code Playground.
+**OMNI.1** is a Python-based project designed as a foundation for advanced automation, AI experimentation, and universal tool-building. The vision is to create a modular, extensible system that can evolve into a personal digital assistant, automation hub, or experimental AI Code Playground. 
+
+The goal is to familiarize yourself with the ancient numerical systems of yesteryears civilizations. 
 
 This project is a living artifact—meant to be iterated upon, refactored, and expanded as new ideas and technologies emerge. It is a reflection of the philosophy that software should be both a tool and a canvas for personal and universal growth.
 
@@ -25,8 +27,7 @@ This project is a living artifact—meant to be iterated upon, refactored, and e
 Clone the repository:
 
 ```bash
-git clone https://github.com/psk44/OMNI.1.git
-cd OMNI.1
+git clone https://github.com/psk44/OMNI1.git
 ```
 
 Install any required dependencies (if/when added):
@@ -40,7 +41,7 @@ pip install -r requirements.txt
 Run the main script:
 
 ```bash
-python omni1.py
+python3 omni1.py
 ```
 
 ## Project Philosophy
